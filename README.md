@@ -1,4 +1,4 @@
-# creating a database conection connection
+# creating a database conection connection & Routes
 *Node
 *Experss 
 *SQL 
